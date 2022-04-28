@@ -1,1 +1,11 @@
 
+{
+  "user": [
+    {
+      "name": "Anvar Rasulov",
+      "location": "Fergana",
+      "job": "Frontend Developer",
+      "age": 23
+    }
+  ]
+}

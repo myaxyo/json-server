@@ -1,36 +1,37 @@
 {
-  "user": [
-    {
-      "id": 1,
-      "name": "Anvar Rasulov",
-      "location": "Fergana",
-      "job": "Frontend Developer",
-      "company": "Facebook",
-      "age": 23
-    },
-    {
-      "id": 2,
-      "name": "Anvar Hamidov",
-      "location": "Andijon",
-      "job": "Frontend Developer",
-      "company": "Linkedin",
-      "age": 23
-    },
-    {
-      "id": 3,
-      "name": "Jasur Rasulov",
-      "location": "Samarkand",
-      "company": "Artel",
-      "job": "Frontend Developer",
-      "age": 23
-    }
-  ],
-  "companies": [
-    {
-      "id": 1,
-      "name": "Facebook",
-      "location": "Silicon Vallay"
-    }
-  ]
+  "api": {
+    "user": [
+      {
+        "id": 1,
+        "name": "Anvar Rasulov",
+        "location": "Fergana",
+        "job": "Frontend Developer",
+        "company": "Facebook",
+        "age": 23
+      },
+      {
+        "id": 2,
+        "name": "Anvar Hamidov",
+        "location": "Andijon",
+        "job": "Frontend Developer",
+        "company": "Linkedin",
+        "age": 23
+      },
+      {
+        "id": 3,
+        "name": "Jasur Rasulov",
+        "location": "Samarkand",
+        "company": "Artel",
+        "job": "Frontend Developer",
+        "age": 23
+      }
+    ],
+    "companies": [
+      {
+        "id": 1,
+        "name": "Facebook",
+        "location": "Silicon Vallay"
+      }
+    ]
+  }
 }
-

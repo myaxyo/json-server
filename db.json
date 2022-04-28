@@ -6,6 +6,18 @@
       "location": "Fergana",
       "job": "Frontend Developer",
       "age": 23
+    },
+    {
+      "name": "Anvar Hamidov",
+      "location": "Andijon",
+      "job": "Frontend Developer",
+      "age": 23
+    },
+    {
+      "name": "Jasur Rasulov",
+      "location": "Samarkand",
+      "job": "Frontend Developer",
+      "age": 23
     }
   ]
 }

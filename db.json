@@ -1,4 +1,3 @@
-
 {
   "user": [
     {
@@ -30,7 +29,8 @@
     {
       "id": 1,
       "name": "Facebook",
-      "location": "Silicon Vallay",
+      "location": "Silicon Vallay"
     }
   ]
 }
+
